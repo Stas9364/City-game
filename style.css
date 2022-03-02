@@ -1,0 +1,12 @@
+.out-city {
+    margin: auto;
+    border: 1px solid black;
+    width: 175px;
+    height: 20px;
+}
+
+input {
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 5px;
+}
